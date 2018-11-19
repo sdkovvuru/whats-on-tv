@@ -33,7 +33,7 @@
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/images/dunkirk.jpg">
-      <img src="/images/dunkirk.jpg" alt=movie" width="600" height="400">
+      <img src="/images/dunkirk.jpg" alt=movie" width="400" height="300">
     </a>
     <div class="desc">Dunkirk on Star Movies at 10PM 17/11/2018</div>
   </div>
@@ -41,8 +41,8 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="zoom top 50.jpg">
-      <img src="zoom top 50.jpg" alt="music" width="600" height="400">
+    <a target="_blank" href="/images/zoomtop50.jpg">
+      <img src="/images/zoomtop50.jpg" alt="music" width="400" height="300">
     </a>
     <div class="desc">Every Saturday on Zoom at 9AM</div>
   </div>
@@ -51,7 +51,7 @@
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="bahubali.jpg">
-      <img src="/images/bahubali.jpg" alt="movie" width="600" height="400">
+      <img src="/images/bahubali.jpg" alt="movie" width="400" height="300">
     </a>
     <div class="desc">Bahubali on SET Max at 9PM 18/11/2018</div>
   </div>
@@ -60,7 +60,7 @@
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="chinababu.jpg">
-      <img src="/images/chinababu.jpg" alt="movie" width="600" height="400">
+      <img src="/images/chinababu.jpg" alt="movie" width="400" height="300">
     </a>
     <div class="desc">Chinababu on Zee Telugu at 6PM 18/11/2018</div>
   </div>

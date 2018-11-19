@@ -25,10 +25,19 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="zoom top 50.jpg">
-      <img src="zoom top 50.jpg" alt="music" width="600" height="400">
+    <a target="_blank" href="/images/zoomtop50.jpg">
+      <img src="/images/zoomtop50.jpg" alt="music" width="600" height="400">
     </a>
     <div class="desc">Every Saturday on Zoom at 9AM</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="http://www.radiomirchi.com/mirchi-top-20">
+      <img src="/images/radio.jpg" alt="music" width="600" height="400">
+    </a>
+    <div class="desc">Every Saturday on Radio Mirchi at 8PM</div>
   </div>
 </div>
 
