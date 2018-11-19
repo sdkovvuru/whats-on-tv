@@ -15,7 +15,7 @@
 <meta name="description" content="Watch and enjoy your Favorite, Top Movies. Explore the best music by Bollywood. Don't miss the old and new Hindi/English blockbuster movies on TV." />
 <title>what's on Television this week? </title>
 </head>
-<body>
+<body bgcolor="#E6E6FA">
 
 <?php include 'header.php';?>
 <div class="header">
@@ -29,13 +29,13 @@
     <a href="about.php">About</a>
   </div>
 </div>
-<div style="padding-left:20px">
-
+<div style="padding:20px 20px 20px;">
+</br>
   <h2 align="center">Let us bring you upto Speed on interesting things on TV this week!</h2>
 <?php include 'grid.php';?>
 <p align="center">Did you miss the Top 50 Bollywood songs on Zoom this Saturday? Check out our Music section for Latest hits.</p>
 
-<p align="center">Do you wonder what awesome bollywood and Hollywood movies you are missing on Zee Cinema, Star Gold, HBO, Comedy Central or Star Movies?</p>
+<p align="center">Do you wonder what awesome bollywood and Hollywood movies you are missing on Zee Cinema, Star Gold, HBO, Comedy Central or Star Movies? Here is a curated list from us.</p>
 </br>
 
 
@@ -43,40 +43,40 @@
     <div class="row" >
 	
         <div class="col-sm-3">
-<div class="card mb-3" >
+<div class="card mb-3 border border-success" >
   <h5 class="card-header">Featured in Movies</h5>
   <img class="card-img-top" src="images/dunkirk.jpg" alt="Card image cap" height="300">
   <div class="card-body">
     <h5 class="card-title">Dunkirk</h5>
     <p class="card-text">Star Movies</p>
 	<p class="card-text">10PM 17/11/2018</p>
-    <a href="movies.php" class="btn btn-primary">View All</a>
+    <a href="movies.php" class="btn btn-success">View All</a>
   </div>
 </div>
 </div>
 
   <div class="col-sm-3">
-<div class="card mb-3" >
+<div class="card mb-3 border border-success" >
   <h5 class="card-header">Featured in Music</h5>
   <img class="card-img-top" src="images/zoomtop50.jpg" alt="Card image cap" height="300">
   <div class="card-body">
     <h5 class="card-title">Zoom Top 50</h5>
     <p class="card-text">Zoom</p>
 	<p class="card-text">9AM Every Saturday</p>
-    <a href="music.php" class="btn btn-primary">View All</a>
+    <a href="music.php" class="btn btn-success">View All</a>
   </div>
 </div>
 </div>
 
   <div class="col-sm-3">
-<div class="card mb-3">
+<div class="card mb-3 border border-success">
   <h5 class="card-header">Featured in Movies</h5>
   <img class="card-img-top" src="images/bahubali.jpg" alt="Card image cap" height="300">
   <div class="card-body">
     <h5 class="card-title">Bahubali 2</h5>
     <p class="card-text">SET Max</p>
 	<p class="card-text">9PM 18/11/2018</p>
-    <a href="movies.php" class="btn btn-primary">View All</a>
+    <a href="movies.php" class="btn btn-success">View All</a>
   </div>
 </div>
 </div>
@@ -84,27 +84,27 @@
 
 
 <div class="col-sm-3">
-<div class="card mb-3">
+<div class="card mb-3 border border-success">
   <h5 class="card-header">Featured in Movies</h5>
   <img class="card-img-top" src="images/chinababu.jpg" alt="Card image cap" height="300">
   <div class="card-body">
     <h5 class="card-title">Chinababu</h5>
     <p class="card-text">Zee Telugu</p>
 	<p class="card-text">6PM 18/11/2018</p>
-    <a href="movies.php" class="btn btn-primary">View All</a>
+    <a href="movies.php" class="btn btn-success">View All</a>
   </div>
 </div>
 </div>
 
   <div class="col-sm-3">
-<div class="card mb-3">
+<div class="card mb-3 border border-success">
   <h5 class="card-header">Featured in Music</h5>
   <img class="card-img-top" src="images/genius.jpg" alt="Card image cap" height="300">
   <div class="card-body">
     <h5 class="card-title">Genius</h5>
     <p class="card-text">Zee Cinemas</p>
 	<p class="card-text">9PM 18/11/2018</p>
-    <a href="movies.php" class="btn btn-primary">View All</a>
+    <a href="movies.php" class="btn btn-success">View All</a>
   </div>
 </div>
 </div>
