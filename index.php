@@ -12,11 +12,11 @@
   <img src="logo.jpg">
   <div class="header-right">
     <a class="active" href="#home">Home</a>
-	<a href="/whats-on-tv/movies.php">Movies</a>
-	<a href="/whats-on-tv/shows.php">Shows</a>
-    <a href="/whats-on-tv/music.php">Music</a>
-	 <a href="/whats-on-tv/contact.php">Contact Us</a>
-    <a href="#about">About</a>
+	<a href="movies.php">Movies</a>
+	<a href="shows.php">Shows</a>
+    <a href="music.php">Music</a>
+	 <a href="contact.php">Contact Us</a>
+    <a href="about.php">About</a>
   </div>
 </div>
 <div style="padding-left:20px">
