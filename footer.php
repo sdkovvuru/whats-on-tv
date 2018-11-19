@@ -2,6 +2,7 @@
 echo '
 <style>
 .footer {
+	clear: both;
   overflow: hidden;
   background-color: #00b050;
   padding: 2px 2px;

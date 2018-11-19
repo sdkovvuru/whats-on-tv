@@ -6,12 +6,29 @@
 <body>
 
 <?php include 'header.php';?>
-
-<div style="padding-left:20px">
-  <h2 align="center">Let us bring you upto Speed on interesting things on TV this week!</h2>
-  <p>Keep watching for more updates</p>
+<div class="header">
+  <img src="logo.jpg">
+  <div class="header-right">
+    <a  href="/whats-on-tv/index.php">Home</a>
+	<a href="/whats-on-tv/movies.php">Movies</a>
+	<a href="/whats-on-tv/shows.php">Shows</a>
+    <a class="active" href="/whats-on-tv/music.php">Music</a>
+	 <a href="/whats-on-tv/contact.php">Contact Us</a>
+    <a href="#about">About</a>
+  </div>
 </div>
-
+<div style="padding-left:20px">
+  <h2 align="center">All the latest music in Bollywood and latest countdowns to chartbusting numbers!</h2>
+  <p>Click on a card to see the latest hits in Bollywood!</p>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_5terre.jpg">
+      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
 <?php include 'footer.php';?>
 
 </body>
