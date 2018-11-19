@@ -21,14 +21,17 @@
   <h2 align="center">All the latest music in Bollywood and latest countdowns to chartbusting numbers!</h2>
   <p>Click on a card to see the latest hits in Bollywood!</p>
 </div>
+
+
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_5terre.jpg">
-      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="zoom top 50.jpg">
+      <img src="zoom top 50.jpg" alt="music" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Every Saturday on Zoom at 9AM</div>
   </div>
 </div>
+
 <?php include 'footer.php';?>
 
 </body>
