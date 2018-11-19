@@ -1,7 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-79127606-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-79127606-2');
+</script>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Watch and enjoy your Favorite, Top Movies. Explore the best music by Bollywood. Don't miss the old and new Hindi/English blockbuster movies on TV." />
+<title>what's on Television this week? </title>
 </head>
 <body>
 
